@@ -27,5 +27,5 @@ poetry run python train.py --train_data_directory=path/to/train_data_directory -
 
 ## Test
 ```
-poetry run python train.py --test_data_directory=path/to/test_data_directory
+poetry run python test.py --test_data_directory=path/to/test_data_directory
 ```
